@@ -1,0 +1,313 @@
+// ===============================================================================================================
+// add new team addTeam(tId, tName, fansCount, represents);
+addTeam t001 team1 25000  POLAND
+addTeam t002 team2 26500  GREECE
+addTeam t003 team3 32100  RUSSIA
+addTeam t004 team4 54100  CZECHREPUBLIC
+addTeam t005 team5 35000  NETHERLANDS
+addTeam t006 team6 27450  DENMARK
+addTeam t007 team7 50040  GERMANY
+addTeam t008 team8 48700  PORTUGAL
+addTeam t009 team9 25400  SPAIN
+addTeam t010 team10 34200 ITALY
+addTeam t011 team11 47010 IRELAND
+addTeam t012 team12 14520 CROATIA
+addTeam t013 team13 14588 UKRAINE
+addTeam t014 team14 25000 SWEDEN
+addTeam t015 team15 64000 FRANCE
+addTeam t016 team16 63001 ENGLAND
+
+
+// ===============================================================================================================
+//add new coach addCoach(pId, fullName, age, nation, currentTeam, level);
+addCoach C001 Eyal Haim 35 POLAND t001 ADVANCED
+addCoach C002 Yaron Levi 34 GREECE t002 ADVANCED
+addCoach C003 Gadi Melamed 36 RUSSIA t003 ADVANCED
+addCoach C004 Roy Shefer 38 CZECHREPUBLIC t004 ADVANCED
+addCoach C005 Shimon Danon 37 NETHERLANDS t005 ADVANCED
+addCoach C006 Doron Hen 33 DENMARK t006 PROFESSIONAL
+addCoach C007 Salah Shabati 32 GERMANY t007 ADVANCED
+addCoach C008 Dvora Erez 34 PORTUGAL t008 BEGINNER
+addCoach C009 Leon Nahum 35 SPAIN t009 ADVANCED
+addCoach C010 Hoze Soel 33 ITALY t010 ADVANCED
+addCoach C011 Hoze Rfeal 23 IRELAND t011 ADVANCED
+addCoach C012 Nidal Fahum 33 CROATIA t012 ADVANCED
+addCoach C013 Nidal Abdala 3 UKRAINE t013 PROFESSIONAL
+addCoach C014 Nidal Fahum 23 SWEDEN t014 PROFESSIONAL
+
+
+// ===============================================================================================================
+// addPlayer pId, pFullName, age, nation, pNum, position, fansCount, currentTeam
+
+
+
+addPlayer pHR01 Stipe Pletikosa 33 CROATIA 01 GOALKEEPER 2500 t012
+addPlayer pHR02 Danijel Pranjic 30 CROATIA 06 DEFENDER 2500 t012
+addPlayer pHR03 Ivan Strinic 25 CROATIA 02 DEFENDER 3800 t012
+addPlayer pHR04 Josip Simunic 34 CROATIA 03 DEFENDER 2500 t012
+addPlayer pHR05 Jurica Buljat 25 CROATIA 04 DEFENDER 3100 t012
+addPlayer pHR06 Ognjen Vukojevic 28 CROATIA 08 DEFENDER 4500 t012
+addPlayer pHR07 Luka Modric 26 CROATIA 10 MIDFIELDER 4300 t012
+addPlayer pHR08 Milan Badelj 24 CROATIA 14 MIDFIELDER 5800 t012
+addPlayer pHR09 Nikica Jelavic 26 CROATIA 09 ATTACKER 6960 t012
+addPlayer pHR10 Mario Mandzukic 26 CROATIA 17 ATTACKER 6500 t012
+addPlayer pHR11 Eduardo Eduardo 29 CROATIA 22 ATTACKER 7100 t012
+
+// Additional examples for other teams:
+addPlayer pCZ01 Petr Cech 30 CZECHREPUBLIC 01 GOALKEEPER 2600 t004
+addPlayer pCZ02 Jan Lastuvka 30 CZECHREPUBLIC 16 DEFENDER 3240 t004
+addPlayer pCZ03 Michal Kadlec 27 CZECHREPUBLIC 03 DEFENDER 5400 t004
+addPlayer pCZ04 Marek Suchy 24 CZECHREPUBLIC 22 DEFENDER 1400 t004
+addPlayer pCZ05 Roman Hubnik 28 CZECHREPUBLIC 05 DEFENDER 3500 t004
+addPlayer pCZ06 Tomas Sivok 28 CZECHREPUBLIC 06 DEFENDER 6800 t004
+addPlayer pCZ07 Vaclav Pilar 23 CZECHREPUBLIC 14 MIDFIELDER 2545 t004
+addPlayer pCZ08 Tomas Hubschman 30 CZECHREPUBLIC 17 MIDFIELDER 2515 t004
+addPlayer pCZ09 Tomas Necid 22 CZECHREPUBLIC 07 ATTACKER 2585 t004
+addPlayer pCZ10 Milan Baros 30 CZECHREPUBLIC 15 ATTACKER 5500 t004
+
+// And for Ukraine:
+addPlayer pUK01 Maxym Koval 19 UKRAINE 01 GOALKEEPER 1598 t013
+addPlayer pUK02 Yevhen Selin 24 UKRAINE 02 DEFENDER 5478 t013
+addPlayer pUK03 Yevhen Khacheridi 24 UKRAINE 03 DEFENDER 5654 t013
+addPlayer pUK04 Yaroslav Rakitskiy 22 UKRAINE 20 DEFENDER 2545 t013
+addPlayer pUK05 Bohdan Butko 21 UKRAINE 21 DEFENDER 5463 t013
+addPlayer pUK06 Anatoliy Tymoshchuk 33 UKRAINE 04 DEFENDER 1500 t013
+addPlayer pUK07 Denys Garmash 22 UKRAINE 06 MIDFIELDER 2544 t013
+addPlayer pUK08 Andriy Yarmolenko 22 UKRAINE 11 MIDFIELDER 3225 t013
+addPlayer pUK09 Andriy Voronin 33 UKRAINE 10 ATTACKER 4222 t013
+addPlayer pUK10 Andriy Shevchenko 35 UKRAINE 07 ATTACKER 6595 t013
+
+// Lastly, for Poland:
+addPlayer pPO01 Wojciech Szczęsny 22 POLAND 01 GOALKEEPER 1589 t001
+addPlayer pPO02 Sebastian Boenisch 25 POLAND 02 DEFENDER 2566 t001
+addPlayer pPO03 Grzegorz Wojtkowiak 28 POLAND 03 DEFENDER 3100 t001
+addPlayer pPO04 Marcin Kaminski 20 POLAND 04 DEFENDER 2956 t001
+addPlayer pPO05 Damien Perquis 28 POLAND 15 DEFENDER 6600 t001
+addPlayer pPO06 Eugen Polanski 26 POLAND 07 DEFENDER 5500 t001
+addPlayer pPO07 Ludovic Obraniak 27 POLAND 10 MIDFIELDER 5455 t001
+addPlayer pPO08 Rafal Murawski 30 POLAND 11 MIDFIELDER 3600 t001
+addPlayer pPO09 Pawel Brożek 29 POLAND 23 MIDFIELDER 5688 t001
+addPlayer pPO10 Artur Sobiech 22 POLAND 17 ATTACKER 4236 t001
+addPlayer pPO11 Robert Lewandowski 23 POLAND 09 ATTACKER 6250 t001
+
+// Example for France:
+addPlayer pFR01 Hugo Lloris 25 FRANCE 01 GOALKEEPER 356 t015
+// ===============================================================================================================
+
+// addMatchResult homeTeam awayTeam match totalTime penaltyEnd homeTeamScore awayTeamScore
+
+addMatchResult t001 t002 M0001 90 false 2 1 
+addMatchResult t003 t004 M0002 120 false 3 2 
+addMatchResult t005 t006 M0003 90 true 1 1
+addMatchResult t007 t008 M0004 90 true 2 2
+addMatchResult t009 t010 M0005 90 false 3 1
+addMatchResult t011 t012 M0006 120 false 1 3
+addMatchResult t013 t014 M0007 90 true 1 1
+addMatchResult t015 t016 M0008 120 true 2 2
+addMatchResult t001 t003 M0009 90 false 1 1
+addMatchResult t004 t005 M0010 90 true 3 2
+addMatchResult t006 t007 M0011 90 false 2 2
+// ===============================================================================================================
+// addMatch matchID date stadium totalTickets
+addMatch M0001 10/06/2024 Warsaw 50000
+addMatch M0002 11/06/2024 Gdansk 45000
+addMatch M0003 12/06/2024 Wroclaw 47000
+addMatch M0004 13/06/2024 Poznan 43000
+addMatch M0005 14/06/2024 Krakow 48000
+addMatch M0006 15/06/2024 Warsaw 50000
+addMatch M0007 16/06/2024 Gdansk 45000
+addMatch M0008 17/06/2024 Wroclaw 47000
+addMatch M0009 18/06/2024 Poznan 43000
+addMatch M0010 19/06/2024 Krakow 48000
+addMatch M0011 20/06/2024 Warsaw 50000
+addMatch M0012 21/06/2024 Gdansk 45000
+addMatch M0013 22/06/2024 Wroclaw 47000
+addMatch M0014 23/06/2024 Poznan 43000
+addMatch M0015 24/06/2024 Krakow 48000
+
+
+// ===============================================================================================================
+
+// addCustomer pId, fullName, age, nation,email, level, favoriteTeam
+addCustomer C0001 John Doe 30 USA http://john.doe@example.com BEGINNER t001
+addCustomer C0002 Jane Smith 25 CANADA http://jane.smith@example.com INTERMEDIATE t002
+addCustomer C0003 Mike Johnson 28 UK http://mike.johnson@example.com ADVANCED t003
+addCustomer C0004 Emily Davis 22 AUSTRALIA http://emily.davis@example.com BEGINNER t004
+addCustomer C0005 Chris Brown 35 SOUTH_AFRICA http://chris.brown@example.com PROFESSIONAL t005
+addCustomer C0006 Pat Lee 27 CHINA http://pat.lee@example.com INTERMEDIATE t006
+addCustomer C0007 Alex Kim 33 KOREA http://alex.kim@example.com ADVANCED t007
+addCustomer C0008 Sam Taylor 24 JAPAN http://sam.taylor@example.com BEGINNER t008
+addCustomer C0009 Jamie Fox 29 BRAZIL http://jamie.fox@example.com INTERMEDIATE t009
+addCustomer C0010 Morgan White 26 GERMANY http://morgan.white@example.com PROFESSIONAL t010
+addCustomer C0011 Casey Green 31 FRANCE http://casey.green@example.com BEGINNER t011
+addCustomer C0012 Taylor Blue 34 ITALY http://taylor.blue@example.com ADVANCED t012
+addCustomer C0013 Jordan Black 23 SPAIN http://jordan.black@example.com BEGINNER t013
+addCustomer C0014 Sidney Grey 32 UKRAINE http://sidney.grey@example.com PROFESSIONAL t014
+addCustomer C0015 Robin Brown 28 NETHERLANDS http://robin.brown@example.com INTERMEDIATE t015
+addCustomer C0016 Avery White 27 PORTUGAL http://avery.white@example.com BEGINNER t016
+
+// ===============================================================================================================
+
+// addSponsor pId, fullName, age, nation, nickName
+addSponsor S0001 John Doe 45 USA JDoe
+addSponsor S0002 Jane Smith 38 CANADA JSmith
+addSponsor S0003 Mike Johnson 50 UK MJohnson
+addSponsor S0004 Emily Davis 35 AUSTRALIA EDavis
+addSponsor S0005 Chris Brown 48 SOUTH_AFRICA CBrown
+addSponsor S0006 Pat Lee 42 CHINA PLee
+addSponsor S0007 Alex Kim 40 KOREA AKim
+addSponsor S0008 Sam Taylor 37 JAPAN STaylor
+addSponsor S0009 Jamie Fox 44 BRAZIL JFox
+addSponsor S0010 Morgan White 39 GERMANY MWhite
+addSponsor S0011 Casey Green 46 FRANCE CGreen
+addSponsor S0012 Taylor Blue 41 ITALY TBlue
+addSponsor S0013 Jordan Black 33 SPAIN JBlack
+addSponsor S0014 Sidney Grey 49 SWEDEN SGrey
+addSponsor S0015 Robin Brown 47 NETHERLANDS RBrown
+addSponsor S0016 Avery White 36 PORTUGAL AWhite
+
+
+
+
+// ===============================================================================================================
+
+// addTrophy trophy owner trophyWinningDate
+addTrophy COACH_OF_THE_YEAR C001 12/06/2024
+addTrophy TEAM_OF_THE_YEAR t001 10/06/2024
+
+addTrophy PLAYER_OF_THE_YEAR pUK06 13/06/2024
+addTrophy TEAM_OF_THE_YEAR t005 14/06/2024
+addTrophy COACH_OF_THE_YEAR C002 16/06/2024
+addTrophy PLAYER_OF_THE_YEAR pHR01 17/06/2024
+
+addTrophy COACH_OF_THE_YEAR C012 20/06/2024
+addTrophy PLAYER_OF_THE_YEAR pCZ08 21/06/2024
+
+addTrophy COACH_OF_THE_YEAR C006 24/06/2024
+addTrophy PLAYER_OF_THE_YEAR pHR11 25/06/2024
+
+addTrophy BEST_PlAYER_SHOOTS pCZ07 27/09/2024
+addTrophy BEST_PlAYER_SHOOTS pCZ09 28/08/2024
+addTrophy PLAYER_OF_THE_YEAR pPO04 29/08/2024
+addTrophy GOLDEN_GLOVE_PLAYER pUK01 21/08/2024
+addTrophy PLAYER_OF_THE_YEAR pUK03 25/09/2024
+
+// ===============================================================================================================
+
+// Adding teams to coaches
+addTeamToCoach t002 C001
+addTeamToCoach t003 C002
+addTeamToCoach t004 C003
+addTeamToCoach t005 C004
+addTeamToCoach t006 C005
+addTeamToCoach t007 C006
+addTeamToCoach t008 C007
+addTeamToCoach t009 C008
+addTeamToCoach t010 C009
+addTeamToCoach t011 C010
+addTeamToCoach t012 C011
+addTeamToCoach t013 C012
+addTeamToCoach t014 C013
+addTeamToCoach t015 C014
+// ===============================================================================================================
+
+// Adding customers to matches
+addCostumerToMatch C0001 M0001
+addCostumerToMatch C0002 M0002
+addCostumerToMatch C0003 M0003
+addCostumerToMatch C0004 M0004
+addCostumerToMatch C0005 M0005
+addCostumerToMatch C0006 M0006
+addCostumerToMatch C0007 M0007
+addCostumerToMatch C0008 M0008
+addCostumerToMatch C0009 M0009
+addCostumerToMatch C0010 M0010
+addCostumerToMatch C0011 M0011
+addCostumerToMatch C0012 M0012
+addCostumerToMatch C0013 M0013
+addCostumerToMatch C0014 M0014
+addCostumerToMatch C0015 M0015
+// ===============================================================================================================
+
+// Adding matches to players
+addMatchToPlayer M0001 pHR01
+addMatchToPlayer M0002 pHR02
+addMatchToPlayer M0003 pHR03
+addMatchToPlayer M0004 pHR04
+addMatchToPlayer M0005 pHR05
+addMatchToPlayer M0006 pHR06
+addMatchToPlayer M0007 pHR07
+addMatchToPlayer M0008 pHR08
+addMatchToPlayer M0009 pHR09
+addMatchToPlayer M0010 pHR10
+addMatchToPlayer M0011 pHR11
+// ===============================================================================================================
+
+// Adding teams to sponsors
+addTeamToSponsor t001 S0001
+addTeamToSponsor t002 S0001
+addTeamToSponsor t003 S0002
+addTeamToSponsor t004 S0002
+addTeamToSponsor t005 S0002
+addTeamToSponsor t006 S0003
+addTeamToSponsor t007 S0006
+addTeamToSponsor t008 S0004
+addTeamToSponsor t009 S0004
+addTeamToSponsor t010 S0005
+addTeamToSponsor t011 S0006
+addTeamToSponsor t012 S0006
+addTeamToSponsor t013 S0007
+addTeamToSponsor t014 S0007
+addTeamToSponsor t015 S0009
+addTeamToSponsor t016 S0008
+// ===============================================================================================================
+
+// Adding players to teams
+addPlayerToTeam t001 pPO01
+addPlayerToTeam t002 pHR02
+addPlayerToTeam t003 pHR03
+addPlayerToTeam t004 pHR04
+addPlayerToTeam t005 pHR05
+addPlayerToTeam t006 pHR06
+addPlayerToTeam t007 pHR07
+addPlayerToTeam t008 pHR08
+addPlayerToTeam t009 pHR09
+addPlayerToTeam t010 pHR10
+addPlayerToTeam t011 pHR11
+addPlayerToTeam t012 pCZ01
+addPlayerToTeam t013 pCZ02
+addPlayerToTeam t014 pCZ03
+addPlayerToTeam t015 pCZ04
+addPlayerToTeam t016 pCZ05
+// ===============================================================================================================
+
+// Adding matches to teams
+addMatchToTeam M0001 t001
+addMatchToTeam M0002 t002
+addMatchToTeam M0003 t003
+addMatchToTeam M0004 t004
+addMatchToTeam M0005 t005
+addMatchToTeam M0006 t006
+addMatchToTeam M0007 t007
+addMatchToTeam M0008 t008
+addMatchToTeam M0009 t009
+addMatchToTeam M0010 t010
+addMatchToTeam M0011 t011
+addMatchToTeam M0012 t012
+addMatchToTeam M0013 t013
+addMatchToTeam M0014 t014
+addMatchToTeam M0015 t015
+// ===============================================================================================================
+
+getEntityWithMostTrophies
+getSponsorsOfGermany
+getMatchWithMaxSoldOutTickets
+getMostActivePlayer
+getTheBestHomeMatch
+getTheBesetCustomer
+getTheMostPopularPosition
+getTeamsBestHomeScore
+getTheMostFavoredTeam
+
+
+

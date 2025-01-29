@@ -1,0 +1,475 @@
+addTeam returns:
+	Successfully added team t001, POLAND to jEuroTournament
+addTeam returns:
+	Successfully added team t002, GREECE to jEuroTournament
+addTeam returns:
+	Successfully added team t003, RUSSIA to jEuroTournament
+addTeam returns:
+	Successfully added team t004, CZECHREPUBLIC to jEuroTournament
+addTeam returns:
+	Successfully added team t005, NETHERLANDS to jEuroTournament
+addTeam returns:
+	Successfully added team t006, DENMARK to jEuroTournament
+addTeam returns:
+	Successfully added team t007, GERMANY to jEuroTournament
+addTeam returns:
+	Successfully added team t008, PORTUGAL to jEuroTournament
+addTeam returns:
+	Successfully added team t009, SPAIN to jEuroTournament
+addTeam returns:
+	Successfully added team t010, ITALY to jEuroTournament
+addTeam returns:
+	Successfully added team t011, IRELAND to jEuroTournament
+addTeam returns:
+	Successfully added team t012, CROATIA to jEuroTournament
+addTeam returns:
+	Successfully added team t013, UKRAINE to jEuroTournament
+addTeam returns:
+	Successfully added team t014, SWEDEN to jEuroTournament
+addTeam returns:
+	Successfully added team t015, FRANCE to jEuroTournament
+addTeam returns:
+	Successfully added team t016, ENGLAND to jEuroTournament
+addCoach returns:
+	Successfully added Coach C001 to jEuroTournament
+addCoach returns:
+	Successfully added Coach C002 to jEuroTournament
+addCoach returns:
+	Successfully added Coach C003 to jEuroTournament
+addCoach returns:
+	Successfully added Coach C004 to jEuroTournament
+addCoach returns:
+	Successfully added Coach C005 to jEuroTournament
+addCoach returns:
+	Successfully added Coach C006 to jEuroTournament
+addCoach returns:
+	Successfully added Coach C007 to jEuroTournament
+addCoach returns:
+	Successfully added Coach C008 to jEuroTournament
+addCoach returns:
+	Successfully added Coach C009 to jEuroTournament
+addCoach returns:
+	Successfully added Coach C010 to jEuroTournament
+addCoach returns:
+	Successfully added Coach C011 to jEuroTournament
+addCoach returns:
+	Successfully added Coach C012 to jEuroTournament
+addCoach returns:
+	Successfully added Coach C013 to jEuroTournament
+addCoach returns:
+	Successfully added Coach C014 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR01, 1 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR02, 6 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR03, 2 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR04, 3 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR05, 4 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR06, 8 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR07, 10 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR08, 14 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR09, 9 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR10, 17 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pHR11, 22 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ01, 1 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ02, 16 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ03, 3 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ04, 22 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ05, 5 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ06, 6 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ07, 14 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ08, 17 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ09, 7 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pCZ10, 15 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK01, 1 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK02, 2 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK03, 3 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK04, 20 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK05, 21 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK06, 4 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK07, 6 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK08, 11 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK09, 10 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pUK10, 7 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO01, 1 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO02, 2 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO03, 3 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO04, 4 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO05, 15 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO06, 7 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO07, 10 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO08, 11 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO09, 23 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO10, 17 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pPO11, 9 to jEuroTournament
+addPlayer returns:
+	Successfully added Player pFR01, 1 to jEuroTournament
+addMatchResult returns:
+	Successfully added MatchResult to jEuroTournament
+addMatchResult returns:
+	Successfully added MatchResult to jEuroTournament
+addMatchResult returns:
+	Successfully added MatchResult to jEuroTournament
+addMatchResult returns:
+	Successfully added MatchResult to jEuroTournament
+addMatchResult returns:
+	Successfully added MatchResult to jEuroTournament
+addMatchResult returns:
+	Successfully added MatchResult to jEuroTournament
+addMatchResult returns:
+	Successfully added MatchResult to jEuroTournament
+addMatchResult returns:
+	Successfully added MatchResult to jEuroTournament
+addMatchResult returns:
+	Successfully added MatchResult to jEuroTournament
+addMatchResult returns:
+	Successfully added MatchResult to jEuroTournament
+addMatchResult returns:
+	Successfully added MatchResult to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: M0001 Mon Jun 10 00:00:00 IDT 2024 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: M0002 Tue Jun 11 00:00:00 IDT 2024 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: M0003 Wed Jun 12 00:00:00 IDT 2024 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: M0004 Thu Jun 13 00:00:00 IDT 2024 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: M0005 Fri Jun 14 00:00:00 IDT 2024 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: M0006 Sat Jun 15 00:00:00 IDT 2024 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: M0007 Sun Jun 16 00:00:00 IDT 2024 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: M0008 Mon Jun 17 00:00:00 IDT 2024 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: M0009 Tue Jun 18 00:00:00 IDT 2024 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: M0010 Wed Jun 19 00:00:00 IDT 2024 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: M0011 Thu Jun 20 00:00:00 IDT 2024 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: M0012 Fri Jun 21 00:00:00 IDT 2024 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: M0013 Sat Jun 22 00:00:00 IDT 2024 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: M0014 Sun Jun 23 00:00:00 IDT 2024 to jEuroTournament
+addMatch returns:
+	Successfully added match with identifier: M0015 Mon Jun 24 00:00:00 IDT 2024 to jEuroTournament
+addCustomer returns:
+	Successfully added Customer C0001 to jEuroTournament
+addCustomer returns:
+	Successfully added Customer C0002 to jEuroTournament
+addCustomer returns:
+	Successfully added Customer C0003 to jEuroTournament
+addCustomer returns:
+	Successfully added Customer C0004 to jEuroTournament
+addCustomer returns:
+	Successfully added Customer C0005 to jEuroTournament
+addCustomer returns:
+	Successfully added Customer C0006 to jEuroTournament
+addCustomer returns:
+	Successfully added Customer C0007 to jEuroTournament
+addCustomer returns:
+	Successfully added Customer C0008 to jEuroTournament
+addCustomer returns:
+	Successfully added Customer C0009 to jEuroTournament
+addCustomer returns:
+	Successfully added Customer C0010 to jEuroTournament
+addCustomer returns:
+	Successfully added Customer C0011 to jEuroTournament
+addCustomer returns:
+	Successfully added Customer C0012 to jEuroTournament
+addCustomer returns:
+	Successfully added Customer C0013 to jEuroTournament
+addCustomer returns:
+	Successfully added Customer C0014 to jEuroTournament
+addCustomer returns:
+	Successfully added Customer C0015 to jEuroTournament
+addCustomer returns:
+	Successfully added Customer C0016 to jEuroTournament
+addSponsor returns:
+	Successfully added Sponsor S0001 to jEuroTournament
+addSponsor returns:
+	Successfully added Sponsor S0002 to jEuroTournament
+addSponsor returns:
+	Successfully added Sponsor S0003 to jEuroTournament
+addSponsor returns:
+	Successfully added Sponsor S0004 to jEuroTournament
+addSponsor returns:
+	Successfully added Sponsor S0005 to jEuroTournament
+addSponsor returns:
+	Successfully added Sponsor S0006 to jEuroTournament
+addSponsor returns:
+	Successfully added Sponsor S0007 to jEuroTournament
+addSponsor returns:
+	Successfully added Sponsor S0008 to jEuroTournament
+addSponsor returns:
+	Successfully added Sponsor S0009 to jEuroTournament
+addSponsor returns:
+	Successfully added Sponsor S0010 to jEuroTournament
+addSponsor returns:
+	Successfully added Sponsor S0011 to jEuroTournament
+addSponsor returns:
+	Successfully added Sponsor S0012 to jEuroTournament
+addSponsor returns:
+	Successfully added Sponsor S0013 to jEuroTournament
+addSponsor returns:
+	Successfully added Sponsor S0014 to jEuroTournament
+addSponsor returns:
+	Successfully added Sponsor S0015 to jEuroTournament
+addSponsor returns:
+	Successfully added Sponsor S0016 to jEuroTournament
+addTrophy returns:
+	Successfully added Trophy to jEuroTournament
+addTrophy returns:
+	Successfully added Trophy to jEuroTournament
+addTrophy returns:
+	Successfully added Trophy to jEuroTournament
+addTrophy returns:
+	Successfully added Trophy to jEuroTournament
+addTrophy returns:
+	Successfully added Trophy to jEuroTournament
+addTrophy returns:
+	Successfully added Trophy to jEuroTournament
+addTrophy returns:
+	Successfully added Trophy to jEuroTournament
+addTrophy returns:
+	Successfully added Trophy to jEuroTournament
+addTrophy returns:
+	Successfully added Trophy to jEuroTournament
+addTrophy returns:
+	Successfully added Trophy to jEuroTournament
+addTrophy returns:
+	Successfully added Trophy to jEuroTournament
+addTrophy returns:
+	Successfully added Trophy to jEuroTournament
+addTrophy returns:
+	Successfully added Trophy to jEuroTournament
+addTrophy returns:
+	Successfully added Trophy to jEuroTournament
+addTrophy returns:
+	Successfully added Trophy to jEuroTournament
+addTeamToCoach returns:
+	Successfully added team t002 to coach C001
+addTeamToCoach returns:
+	Successfully added team t003 to coach C002
+addTeamToCoach returns:
+	Successfully added team t004 to coach C003
+addTeamToCoach returns:
+	Successfully added team t005 to coach C004
+addTeamToCoach returns:
+	Successfully added team t006 to coach C005
+addTeamToCoach returns:
+	Successfully added team t007 to coach C006
+addTeamToCoach returns:
+	Successfully added team t008 to coach C007
+addTeamToCoach returns:
+	Successfully added team t009 to coach C008
+addTeamToCoach returns:
+	Successfully added team t010 to coach C009
+addTeamToCoach returns:
+	Successfully added team t011 to coach C010
+addTeamToCoach returns:
+	Successfully added team t012 to coach C011
+addTeamToCoach returns:
+	Successfully added team t013 to coach C012
+addTeamToCoach returns:
+	Successfully added team t014 to coach C013
+addTeamToCoach returns:
+	Successfully added team t015 to coach C014
+addCostumerToMatch returns:
+	Successfully added customer C0001 to match M0001
+addCostumerToMatch returns:
+	Successfully added customer C0002 to match M0002
+addCostumerToMatch returns:
+	Successfully added customer C0003 to match M0003
+addCostumerToMatch returns:
+	Successfully added customer C0004 to match M0004
+addCostumerToMatch returns:
+	Successfully added customer C0005 to match M0005
+addCostumerToMatch returns:
+	Successfully added customer C0006 to match M0006
+addCostumerToMatch returns:
+	Successfully added customer C0007 to match M0007
+addCostumerToMatch returns:
+	Successfully added customer C0008 to match M0008
+addCostumerToMatch returns:
+	Successfully added customer C0009 to match M0009
+addCostumerToMatch returns:
+	Successfully added customer C0010 to match M0010
+addCostumerToMatch returns:
+	Successfully added customer C0011 to match M0011
+addCostumerToMatch returns:
+	Successfully added customer C0012 to match M0012
+addCostumerToMatch returns:
+	Successfully added customer C0013 to match M0013
+addCostumerToMatch returns:
+	Successfully added customer C0014 to match M0014
+addCostumerToMatch returns:
+	Successfully added customer C0015 to match M0015
+addMatchToPlayer returns:
+	Successfully added match M0001 to player pHR01
+addMatchToPlayer returns:
+	Successfully added match M0002 to player pHR02
+addMatchToPlayer returns:
+	Successfully added match M0003 to player pHR03
+addMatchToPlayer returns:
+	Successfully added match M0004 to player pHR04
+addMatchToPlayer returns:
+	Successfully added match M0005 to player pHR05
+addMatchToPlayer returns:
+	Successfully added match M0006 to player pHR06
+addMatchToPlayer returns:
+	Successfully added match M0007 to player pHR07
+addMatchToPlayer returns:
+	Successfully added match M0008 to player pHR08
+addMatchToPlayer returns:
+	Successfully added match M0009 to player pHR09
+addMatchToPlayer returns:
+	Successfully added match M0010 to player pHR10
+addMatchToPlayer returns:
+	Successfully added match M0011 to player pHR11
+addTeamToSponsor returns:
+	Successfully added team t001 to sponsor S0001
+addTeamToSponsor returns:
+	Successfully added team t002 to sponsor S0001
+addTeamToSponsor returns:
+	Successfully added team t003 to sponsor S0002
+addTeamToSponsor returns:
+	Successfully added team t004 to sponsor S0002
+addTeamToSponsor returns:
+	Successfully added team t005 to sponsor S0002
+addTeamToSponsor returns:
+	Successfully added team t006 to sponsor S0003
+addTeamToSponsor returns:
+	Successfully added team t007 to sponsor S0006
+addTeamToSponsor returns:
+	Successfully added team t008 to sponsor S0004
+addTeamToSponsor returns:
+	Successfully added team t009 to sponsor S0004
+addTeamToSponsor returns:
+	Successfully added team t010 to sponsor S0005
+addTeamToSponsor returns:
+	Successfully added team t011 to sponsor S0006
+addTeamToSponsor returns:
+	Successfully added team t012 to sponsor S0006
+addTeamToSponsor returns:
+	Successfully added team t013 to sponsor S0007
+addTeamToSponsor returns:
+	Successfully added team t014 to sponsor S0007
+addTeamToSponsor returns:
+	Successfully added team t015 to sponsor S0009
+addTeamToSponsor returns:
+	Successfully added team t016 to sponsor S0008
+addPlayerToTeam returns:
+	Failed to add player pPO01 to team t001
+addPlayerToTeam returns:
+	Successfully added player pHR02 to team t002
+addPlayerToTeam returns:
+	Successfully added player pHR03 to team t003
+addPlayerToTeam returns:
+	Successfully added player pHR04 to team t004
+addPlayerToTeam returns:
+	Successfully added player pHR05 to team t005
+addPlayerToTeam returns:
+	Successfully added player pHR06 to team t006
+addPlayerToTeam returns:
+	Successfully added player pHR07 to team t007
+addPlayerToTeam returns:
+	Successfully added player pHR08 to team t008
+addPlayerToTeam returns:
+	Successfully added player pHR09 to team t009
+addPlayerToTeam returns:
+	Successfully added player pHR10 to team t010
+addPlayerToTeam returns:
+	Successfully added player pHR11 to team t011
+addPlayerToTeam returns:
+	Successfully added player pCZ01 to team t012
+addPlayerToTeam returns:
+	Successfully added player pCZ02 to team t013
+addPlayerToTeam returns:
+	Successfully added player pCZ03 to team t014
+addPlayerToTeam returns:
+	Successfully added player pCZ04 to team t015
+addPlayerToTeam returns:
+	Successfully added player pCZ05 to team t016
+addMatchToTeam returns:
+	Successfully added match M0001 to team t001
+addMatchToTeam returns:
+	Successfully added match M0002 to team t002
+addMatchToTeam returns:
+	Successfully added match M0003 to team t003
+addMatchToTeam returns:
+	Successfully added match M0004 to team t004
+addMatchToTeam returns:
+	Successfully added match M0005 to team t005
+addMatchToTeam returns:
+	Successfully added match M0006 to team t006
+addMatchToTeam returns:
+	Successfully added match M0007 to team t007
+addMatchToTeam returns:
+	Successfully added match M0008 to team t008
+addMatchToTeam returns:
+	Successfully added match M0009 to team t009
+addMatchToTeam returns:
+	Successfully added match M0010 to team t010
+addMatchToTeam returns:
+	Successfully added match M0011 to team t011
+addMatchToTeam returns:
+	Successfully added match M0012 to team t012
+addMatchToTeam returns:
+	Successfully added match M0013 to team t013
+addMatchToTeam returns:
+	Successfully added match M0014 to team t014
+addMatchToTeam returns:
+	Successfully added match M0015 to team t015
+getEntityWithMostTrophies returns: core.Player[pId=pPO11, fullName=Robert Lewandowski, age=23, nation=POLAND]
+getSponsorsOfGermany returns: [core.Sponsor[pId=S0006, fullName=Pat Lee, age=42, nation=UNKNOWN]]
+getMatchWithMaxSoldOutTickets returns: core.Match@4539df2
+getMostActivePlayer returns: core.Player[pId=pHR06, fullName=Ognjen Vukojevic, age=28, nation=CROATIA]
+getTheBestHomeMatch returns: core.Match@4539df2
+getTheBesetCustomer returns: [core.Customer[pId=C0014, fullName=Sidney Grey, age=32, nation=UKRAINE], url=http://sidney.grey@example.com, level=PROFESSIONAL, favoriteTeam=core.Team@35757e]]
+getTheMostPopularPosition returns: DEFENDER
+getTeamsBestHomeScore returns: [core.Team@35755c, core.Team@35755e, core.Team@35755f, core.Team@357564]
+getTheMostFavoredTeam returns: core.Team@35755c
